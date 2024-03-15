@@ -1,3 +1,5 @@
+package com.example.song;
+
 public class Song {
     private int songId;
     private String songName;
